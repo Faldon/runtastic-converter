@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase version="1.0"
+                        creator="Runtastic: Life is short - live long, http://www.runtastic.com"
+                        >
+  <Activities>
+    <Activity Sport="">
+      <Id/>
+      <Lap StartTime="">
+        <TotalTimeSeconds/>
+        <DistanceMeters/>
+        <Calories/>
+        <AverageHeartRateBpm>
+          <Value/>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm>
+          <Value/>
+        </MaximumHeartRateBpm>
+        <MaximumSpeed/>
+        <Cadence/>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track />
+      </Lap>
+    </Activity>
+  </Activities>
+</TrainingCenterDatabase>
